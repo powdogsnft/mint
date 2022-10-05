@@ -1,0 +1,22 @@
+{
+  "CONTRACT_ADDRESS": "0xb596dDcBeace6405D178987d566172A597D852DB",
+  "SCAN_LINK": "https://www.oklink.com/en/ethw/token/0xb596dDcBeace6405D178987d566172A597D852DB",
+  "NETWORK": {
+    "NAME": "Ethereum Pow",
+    "SYMBOL": "ETHW",
+    "ID": 10001
+  },
+  "NFT_NAME": "PoWDogsNFT",
+  "SYMBOL": "DOGS",
+  "MAX_SUPPLY": 555,
+  "DISPLAY_COST": 0.35,
+  "WEI_COST": "350000000000000000",
+  "GAS_LIMIT": 285000,
+  "MAX_PER_TX": 15,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "Telegram": "https://t.me/powdogsnft",
+  "Discord": "",
+  "Twitter": "https://twitter.com/powdogsnft",
+  "SHOW_BACKGROUND": false
+}
